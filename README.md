@@ -11,6 +11,7 @@
 - Auto-Configuration: Leverages Spring Boot's "convention over configuration" to reduce boilerplate code.
 - In-Memory Database: Uses PostgreSQL Database for quick testing and development
 
+
 ## 🛠️ Tech Stack
 - Language: Java 21
 - Framework: Spring Boot 4.x
